@@ -50,13 +50,17 @@ import {
       title: "React Native Developer",
       icon: mobile,
     },
-    {
-      title: "Backend Developer",
-      icon: backend,
-    },
+    // {
+    //   title: "Backend Developer",
+    //   icon: backend,
+    // },
     {
       title: "Mobile Application Developer",
       icon: creator,
+    },
+    {
+      title: "Desktop Application Developer",
+      icon: backend,
     },
   ];
   
@@ -117,55 +121,59 @@ import {
   
   const experiences = [
     {
-      title: "React.js Developer",
-      company_name: "Starbucks",
-      icon: starbucks,
-      iconBg: "#383E56",
-      date: "March 2020 - April 2021",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "React Native Developer",
-      company_name: "Tesla",
-      icon: tesla,
-      iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
-      iconBg: "#383E56",
-      date: "Jan 2022 - Jan 2023",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Full stack Developer",
-      company_name: "Meta",
+      title: "Software Engineer",
+      company_name: "Sage Systems Private Limited",
       icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
+      iconBg: "#ff0000ff",
+      date: "Feb 2026 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developing and maintaining enterprise-level web applications and modules using React.js, Node.js, C#, and .NET.",
+        "Collaborating with cross-functional teams including designers, product managers, and other developers to deliver scalable and high-quality software solutions.",
+        "Implementing responsive designs, ensuring cross-browser compatibility, and integrating front-end with backend services and databases.",
+        "Participating in code reviews, mentoring junior developers, and providing constructive feedback to maintain code quality.",
+        "Implemented modules currently used by 3 international shipyards, improving operational efficiency and deployment across UAE and Philippine clients.",
+      ],
+    },
+    {
+      title: "Associate Software Engineer",
+      company_name: "Sage Systems Private Limited",
+      icon: meta,
+      iconBg: "#ff0000ff",
+      date: "Feb 2025 - Jan 2026",
+      points: [
+        "Assisted in developing and enhancing the Integrated Shipyard Commercial and Production Management System (ISCPM) using C#, .NET, DevExpress, and SQL.",
+        "Integrated front-end components with backend APIs to ensure smooth functionality across web and mobile platforms.",
+        "Collaborated with team members to build modules and maintain existing features for international shipyards.",
+        "Contributed to mobile and web applications connected with ISCPM, supporting deployment for multiple international clients.",
+        "Participated in code reviews, debugging, and testing to improve software quality and reliability.",
+      ],
+    },
+    {
+      title: "Software Engineer Intern",
+      company_name: "Sage Systems Private Limited",
+      icon: meta,
+      iconBg: "#ff0000ff",
+      date: "Nov 2024 - Feb 2025",
+      points: [
+        "Collaborated on the development of the Integrated Shipyard Commercial and Production Management System (ISCPM) using C#, .NET, DevExpress, and SQL.",
+        "Supported the development of mobile and web applications integrated with ISCPM for easier access and operations.",
+        "Assisted in deploying the system for a shipyard in the Philippines and contributed to projects for two shipyards in the UAE.",
+        "Learned best practices in code quality, version control, and agile workflow.",
+        "Participated in team meetings, debugging, and testing tasks to gain hands-on experience in enterprise software development.",
+      ],
+    },
+    {
+      title: "BSc(Hons) in Software Engineering - First Class",
+      company_name: "NSBM Green University",
+      icon: tesla,
+      iconBg: "#ffffff",
+      date: "2022 - 2026",
+      points: [
+        "Graduated with First Class Honours in Software Engineering.",
+        "Developed practical skills in programming languages including Java, C#, JavaScript, and Dart.",
+        "Completed a 4-year program covering full-stack development, mobile application development, databases, and software engineering principles.",
+        "Gained experience in software development methodologies, version control, and collaborative team projects.",
+        "Built multiple academic projects including portfolio websites, mobile applications, and web applications.",
       ],
     },
   ];
